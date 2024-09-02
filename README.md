@@ -14,7 +14,9 @@ The solution is based on item-based collaborative filtering
 
 Define $P_{i, j}$ as how much $user_i$ prefers $genre_j$, and $P_{i,j}$ is calculated by
 
-$$P_{i, j} = \bar{r}_i + \underset{j}{avg}(r_{i, k})$$
+$$
+P_{i, j} = \bar{r_i} + \underset{j}{avg}(r_{i, k})
+$$
 
 where
 
