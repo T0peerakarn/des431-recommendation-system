@@ -1,4 +1,4 @@
-# DES431 Project - Reccomendation System
+# DES431 Project - Recomendation System
 
 ## Overview
 
